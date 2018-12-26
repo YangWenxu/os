@@ -1,0 +1,2 @@
+gcc pipe-max.c -o pipe-max.out
+gcc pipeline.c -o pipeline.out

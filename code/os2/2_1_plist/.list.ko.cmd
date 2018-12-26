@@ -1,0 +1,1 @@
+cmd_/home/taetae/桌面/exam02/plist/list.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/taetae/桌面/exam02/plist/list.ko /home/taetae/桌面/exam02/plist/list.o /home/taetae/桌面/exam02/plist/list.mod.o

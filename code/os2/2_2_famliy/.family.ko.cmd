@@ -1,0 +1,1 @@
+cmd_/home/taetae/桌面/exam02/famliy/family.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/taetae/桌面/exam02/famliy/family.ko /home/taetae/桌面/exam02/famliy/family.o /home/taetae/桌面/exam02/famliy/family.mod.o
